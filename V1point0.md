@@ -1,7 +1,8 @@
-# 给DPG的留言
+# 给DPG的留言 V1.0
 
-**此网页为系统整理所得**（建议收藏本站）  
-**原留言板网址（已失效）**: [https://note.ms/dpg](https://note.ms/dpg) 
+**收集者**: trip`Hp0PpH` & `geGDVS` (可能为`VFg6Hd`|`EbHaY9`)  
+**留言板网址**: [https://note.ms/dpg](https://note.ms/dpg)（建议收藏）  
+**友情链接**: [https://note.ms/textaboutdpg](https://note.ms/textaboutdpg)  
 
 ---
 
@@ -10,13 +11,8 @@
 ---
 
 ### 📌 须知
-1. DPG留言板有多个版本，当前最新版为 **[V1.2](/V1point2.html)** 
-2. 查看历史版本（如 `V[alpha].[beta]`），请访问：**dpg.awaland.dpdns.org/V[alpha]point[beta]**
-
----
-
-### 启事
-征集让DPG说中文的方法（详见Part10）
+1. DPG留言板有多个版本，当前最新版为 **note.ms/dpg**  
+2. 查看历史版本（如 `V[alpha].[beta]`），请访问：**note.ms/dpgV[alpha]point[beta]**
 
 ---
 
@@ -774,247 +770,6 @@ aOEdh/ cropse_win
 
 ---
 
-### Part09
-```
-geGDVS Blaze
-dpg的新表情
-
-geGDVS Blaze
-yay
-
-AuTPjx HSBC
-没见过
-
-AuTPjx HSBC
-他没给我发过
-
-geGDVS Blaze
-e
-
-geGDVS Blaze
-awa…
-
-AuTPjx HSBC
-DPG看来不把我当朋友了[○･｀Д´･ ○]
-
-geGDVS Blaze
-hhh
-
-AuTPjx HSBC
-啥也不告诉我[○･｀Д´･ ○]
-
-AuTPjx HSBC
-今天他敢来我就把他踢出去！
-
-geGDVS Blaze
-hhhhhh
-```
-
----
-
-# Part10
-```
-geGDVS Blaze
-yay
-
-VEbeHK _
-…
-
-VEbeHK _
-statis
-
-geGDVS Blaze
-？
-
-geGDVS Blaze
-whats statis
-
-geGDVS Blaze
-statis
-
-geGDVS Blaze
-？
-
-geGDVS Blaze
-。。
-
-VEbeHK _
-?
-
-VEbeHK _
-…
-
-VEbeHK _
-HumaN
-
-geGDVS Blaze
-Can you speak chinese!!!(咆哮
-
-VEbeHK _
-?
-
-VEbeHK _
-chinese!!!(咆哮
-
-VEbeHK _
-awa
-
-geGDVS Blaze
-…
-
-VEbeHK _
-?
-
-VEbeHK _
-¯\_(ツ)_/¯
-
-geGDVS Blaze
-speak!
-
-geGDVS Blaze
-not say!
-
-VEbeHK _
-?
-
-VEbeHK _
-not say!
-
-VEbeHK _
-_v_
-
-geGDVS Blaze
-speak language
-
-geGDVS Blaze
-say sth.
-
-geGDVS Blaze
-do you understand?
-
-VEbeHK _
-language
-
-VEbeHK _
-sth.
-
-VEbeHK _
-goog
-
-geGDVS Blaze
-…
-
-geGDVS Blaze
-can you speak :!kick _
-
-geGDVS Blaze
-hhh
-
-geGDVS Blaze
-awa
-
-VEbeHK _
-:!kick _
-
-VEbeHK _
-:D
-
-geGDVS Blaze
-no
-
-geGDVS Blaze
-no space
-
-geGDVS Blaze
-aaaaaaaaaaaaaaaaaaaa
-
-VEbeHK _
-:!kick _​
-
-VEbeHK _
-:D
-
-geGDVS Blaze
-:!kick @Blaze
-
-geGDVS Blaze
-h
-
-geGDVS Blaze
-:!help
-
-AAfFKK AfK_Bot
-@Blaze Your current identity : OPERATOR
-Usable commands:
-
-:!help :!ban :!unban :!unbanall :!listban :!listop :!list :!addop :!removeop :!lookup :!grass :!translate :!getatblv :!getukick :!getonlineusers :!addbwd :!delbwd :!getbwd :!getwhl :!kick :!getjlmsg :!msg :!tripmsg
-
-Use :!help <COMMAND> for more info.
-Tip:Support whisper.
-
-VEbeHK _
-:D
-
-geGDVS Blaze
-awwwwwwwwwwaaaaaaaa
-
-VEbeHK _
-uwwwwwwwwwwuuuuuuuuuuu
-
-geGDVS Blaze
-do you know whats the differences between speak,say,tell,talk?
-
-VEbeHK _
-¯\_(ツ)_/¯
-
-geGDVS Blaze
-.
-
-VEbeHK _
-¯\_(ツ)_/¯
-
-geGDVS Blaze
-¯\_(ツ)_/¯
-
-geGDVS Blaze
- 
-
-geGDVS Blaze
-wow
-
-geGDVS Blaze
-goog
-
-geGDVS Blaze
- 
-
-geGDVS Blaze
-World problem: let DPG speak English
-
-geGDVS Blaze
-。
-
-geGDVS Blaze
-not this
-
-geGDVS Blaze
-World problem: let DPG not speak English
-
-geGDVS Blaze
-World problem: let DPG speak Chinese
-
-geGDVS Blaze
-¯\_(ツ)_/¯
-
-VEbeHK _
-?
-
-VEbeHK _
-¯\_(ツ)_/¯
-```
-
----
-
 ## 留言墙
 ```
 i think you will like it   ---Hp0PpH
@@ -1025,13 +780,15 @@ tusk小说里金币上刻着dpg哈哈哈
 DOGGGGGGGG
 PUPPPYYBOOOTTTTTTTTTT
 ————————————from TERRY
+
+* TUSK join
+uMtRgL TUSK  hi
+* TUSK left
 ```
 
 ---
 
 ## Q&A
-**提问可发送邮件至 awaish@awaland.dpdns.org**
-
 Q：嗯？这可以写？
 A：对啊
 

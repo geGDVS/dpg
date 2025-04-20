@@ -1,7 +1,8 @@
-# 给DPG的留言
+# 给DPG的留言 V1.2
 
-**此网页为系统整理所得**（建议收藏本站）  
-**原留言板网址（已失效）**: [https://note.ms/dpg](https://note.ms/dpg) 
+**收集者**: trip`Hp0PpH` & `geGDVS` (可能为`VFg6Hd`|`EbHaY9`)  
+**留言板网址**: [https://note.ms/dpg](https://note.ms/dpg)（建议收藏）  
+**友情链接**: [https://note.ms/textaboutdpg](https://note.ms/textaboutdpg)  
 
 ---
 
@@ -10,8 +11,8 @@
 ---
 
 ### 📌 须知
-1. DPG留言板有多个版本，当前最新版为 **[V1.2](/V1point2.html)** 
-2. 查看历史版本（如 `V[alpha].[beta]`），请访问：**dpg.awaland.dpdns.org/V[alpha]point[beta]**
+1. DPG留言板有多个版本，当前最新版为 **note.ms/dpg**  
+2. 查看历史版本（如 `V[alpha].[beta]`），请访问：**note.ms/dpgV[alpha]point[beta]**
 
 ---
 
@@ -1030,8 +1031,6 @@ PUPPPYYBOOOTTTTTTTTTT
 ---
 
 ## Q&A
-**提问可发送邮件至 awaish@awaland.dpdns.org**
-
 Q：嗯？这可以写？
 A：对啊
 
